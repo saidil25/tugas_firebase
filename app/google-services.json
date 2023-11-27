@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467099516060",
+    "project_id": "tugas-firebase-a631e",
+    "storage_bucket": "tugas-firebase-a631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467099516060:android:27f7b4573e1015679bc159",
+        "android_client_info": {
+          "package_name": "com.example.tugas_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmvzFJguGsGjF941PCkS9qhd9z74X7YDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
